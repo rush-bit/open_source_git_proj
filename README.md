@@ -1,7 +1,3 @@
-#Open Source Audit - Git
-**Student Name:**Rushil Saxena
-**Software Choosen:** Git
-
 ## Project Overview
 This repo contains 5 shell scripts for the open source project
 
