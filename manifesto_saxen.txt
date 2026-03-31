@@ -1,0 +1,8 @@
+Open Source Manifesto — 30 March 2026
+
+I believe in the power of open source. Every day I use VS Code, which gives me true freedom — the freedom of choice. 
+Because of this, I commit to building simple note taking app and sharing it freely with the world, just like the creators of Git did in 2005.
+
+Open source is not just code — it is a philosophy of sharing and collaboration.
+
+— saxen
